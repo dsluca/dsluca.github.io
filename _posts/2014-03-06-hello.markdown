@@ -5,22 +5,25 @@ date:   2014-03-06 15:53:00
 categories: intro
 ---
 
-Hello! I am writing this from the cafe at the Google campus. It's my first time in the Google campus, I had the day off and thought to myself, why not, let's cross London from Chiswick to Old Street to have a coffee at the Google Campus cafeteria. The cafeteria is certainly an interesting place full of developers and engineers hacking away. Everyone looks busy either discussing projects or developing, but I am now digressing from the purpose of this blog post.
+Hello! I am writing this from the café at the Google campus. It's my first time in the Google campus, I had the day off and thought to myself, why not, let's cross London from Chiswick to Old Street to have a coffee at the Google Campus cafeteria. The cafeteria is certainly an interesting place full of developers and engineers hacking away. Everyone looks busy either discussing projects or developing, but I am now digressing from the purpose of this blog post.
 
 I'm writing this blog post to explain the reasons that I am starting this blog and the choice of technology.
 
 Why?
 -----
-Simples, I need a place to have links to my online profiles and links to any github, jsfiddle, bitbucket or JavaScript projects.
-
+Quite simply, I need a place to have links to my on-line profiles and links to any [GitHub][GitHub], [JsFiddle][JsFiddle], [BitBucket][BitBucket]or JavaScript projects.
 
 Why Jekyll?
 -----------
 [Jekyll][jekyll] is a simple blogging platform written in ruby.
-In the past I ahve tried other blogging platforms such as Blogger, however after discovering Jekyll, I am convinced that I should be using Jekyll instead.
+In the past I have tried other blogging platforms such as [Blogger][Blogger], however after discovering Jekyll, I am convinced that I should be using Jekyll instead.
 
-Jekyll is used by the [gitub pages][GitPages]. This means that you can get your blog hostd from free using a gihub.io sub domain (and you can use your own domain by using CNAME's). Free hosting is also avainlable in Blogger (and other blogging platforms) however with Jekyll, writing blog posts feel's a lot more like programming. You write your blog posts in markdown (or any other supported format), you have the concept of different page layouts, you need to push to github to publish and it is easy to make static pages which will be very useful to show some JS demo's.
+Jekyll is used by the [gitub pages][GitPages]. This means that you can get your blog hosted from free using a github.io sub domain (and you can use your own domain by using CNAME's). Free hosting is also available in Blogger (and other blogging platforms) however with Jekyll, writing blog posts feels a lot more like programming. You write your blog posts in markdown (or any other supported format), you have the concept of different page layouts, you need to push to github to publish and it is easy to make static pages which will be very useful to show some JS demo's.
 
 
 [GitPages]: http://pages.github.com
 [jekyll]: http://jekyllrb.com
+[BitBucket]: http://bitbucket.org
+[JsFiddle]: http://jsfiddle.net
+[Blogger]: http://www.blogger.com
+[GitHub]: http://github.com
