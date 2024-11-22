@@ -1,3 +1,4 @@
 name: Dylan Lucas
 markdown: redcarpet
 pygments: true
+theme: jekyll-theme-hacker
